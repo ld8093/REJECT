@@ -1,10 +1,10 @@
 # NAME: 自用REJECT域名
 # AUTHOR: ld8093
 # REPO: https://github.com/ld8093/REJECT
-# UPDATED: 2026-09-30 01:27:39
+# UPDATED: 2026-09-30 19:31:46
 # 不喜勿喷，请勿使用并退出此配置。
 
 DOMAIN,api-dsp.8zlben.com
-DOMAIN,sdk,zhangyudong.cn
+DOMAIN,sdk.zhangyudong.cn
 DOMAIN,wxa.wxs.qq.com
 DOMAIN,wximg.wxs.qq.com
